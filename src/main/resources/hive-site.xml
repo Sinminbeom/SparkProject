@@ -1,0 +1,6 @@
+<configuration>
+    <property>
+        <name>hive.metastore.uris</name>
+        <value>thrift://localhost:9083</value> <!-- Hive 메타스토어 URI -->
+    </property>
+</configuration>
